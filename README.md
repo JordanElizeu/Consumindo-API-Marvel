@@ -9,4 +9,5 @@ Explicação detalhada de como consumir a api da marvel e de como implementar no
 
 SITE DEMONSTRANDO COMO FICOU O RESULTADO:
 andrew
+heitor
 https://marvel-br.000webhostapp.com/
