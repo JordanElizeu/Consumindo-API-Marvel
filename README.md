@@ -4,5 +4,12 @@
 
 #Marvel
 # Project-Javascript
+
 Projeto desenvolvido em javascript.
 Explicação detalhada de como consumir a api da marvel e de como implementar novas ferramentas no auxilio da demonstração dos dados (personagens) e afins.
+
+SITE DEMONSTRANDO COMO FICOU O RESULTADO:
+andrew
+heitor
+nova alteração
+https://marvel-br.000webhostapp.com/
